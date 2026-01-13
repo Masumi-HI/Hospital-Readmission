@@ -153,5 +153,3 @@ This project demonstrates how data science can support healthcare decision-makin
 * Supporting value-based care and cost reduction efforts
 
 With further refinement and integration into clinical workflows, this approach can help healthcare organizations reduce avoidable readmissions while improving patient outcomes.
-
-Just tell me 👍
